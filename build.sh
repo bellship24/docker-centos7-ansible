@@ -1,0 +1,1 @@
+docker build . -t bellship24/jb-ansible-molecule-centos7:v0.3
